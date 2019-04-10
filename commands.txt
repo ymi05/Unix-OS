@@ -1,0 +1,8 @@
+mkdir aa
+mkdir bb
+cd aa
+createfile a.cpp
+createfile b.cpp
+cd
+ls -i
+quota
